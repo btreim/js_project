@@ -1,0 +1,38 @@
+
+#container{
+	width: 450px;
+	height:450px;
+	border: 10px solid #FDBB30;
+	border-radius: 5px;
+	margin: auto;
+}
+
+
+div.row {
+	background-color: #002D62;
+	margin: 0px;
+	float: left;
+	display: block;
+
+}
+
+button{
+	border:none;
+	width:25%;
+	background-color:#002D62;
+	color:white;
+	display:block;
+	font-size:20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;	
+	transition-duration:0.4s; 
+	border-radius:5px;
+
+    width: 25%;
+    padding: 10px;
+}
+
+button:hover{
+	background-color:#FDBB30;
+}
